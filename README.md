@@ -1,6 +1,6 @@
 # Estructura de Datos (ED) - UGR
 
-Este repositorio contiene las prácticas y ejercicios realizados como parte de la asignatura de **Estructura de Datos (ED)** de la **Universidad de Granada (UGR)**. A lo largo del curso, se trabajaron diversos conceptos fundamentales de estructuras de datos como colas, pilas, árboles e iteradores.
+Este repositorio contiene las prácticas y ejercicios realizados como parte de la asignatura de **Estructura de Datos ** de la **Universidad de Granada**. A lo largo del curso, se trabajaron diversos conceptos fundamentales de estructuras de datos como colas, pilas, árboles e iteradores.
 
 ## Objetivo del Proyecto
 

@@ -1,6 +1,5 @@
 /*
  NOMBRE Y APELLIDOS: Antonio Haro Arriaza
- DNI: 77799905J
  GRUPO DE PRACTICAS: Martes
  EXAMEN: online
   */
@@ -30,7 +29,7 @@ void test(const char s1[], int n1, const char s2[], int n2){
     //calcular interseccion entre s1 y s2
     // mostrar conjunto interseccion
     
-    // mostrar tamaños de los conjunto union e interseccion
+    // mostrar tamaÃ±os de los conjunto union e interseccion
     // y el valor del coeficiente
      char union1[MAX];
 	char inter2[MAX];
@@ -46,8 +45,8 @@ void test(const char s1[], int n1, const char s2[], int n2){
     InterseccionConjuntos(s1,n1,s2,n2,inter2,tamanioI);
     mostrar(inter2,tamanioI);
 
-    cout <<"El tamaño de la union es "<< tamanioU << endl;
-    cout <<"El tamaño de la interseccion es " << tamanioI << endl;
+    cout <<"El tamaÃ±o de la union es "<< tamanioU << endl;
+    cout <<"El tamaÃ±o de la interseccion es " << tamanioI << endl;
 
     float coeficiente = (float)tamanioI/ (float)tamanioU;  
     cout << "El coeficiente de ARcimboldo es "<< coeficiente <<endl;
